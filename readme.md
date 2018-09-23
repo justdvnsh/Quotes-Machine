@@ -2,6 +2,11 @@
 A random quote generator machine / engine made usign 
 node and express.
 
+A react-only code is also available in the 
+REACT_CODE directory. You can visit the working 
+project here 
+https://codepen.io/Justdvnsh2208/pen/OoqRoK .
+
 # Getting Started
 Getting started is quite easy:-
 
